@@ -5,7 +5,7 @@
 ## 📮 Frederica Who?
 
 ```java
-public class Omar
+public class Frederica
 {
   public String[] Education = new String[] {"Computer Science @ Pitzer College"};
   public String[] CurrentPosition = new String[] {"ex-Product @ Microsoft"};
