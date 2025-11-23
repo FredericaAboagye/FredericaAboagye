@@ -15,7 +15,7 @@ public class Frederica
 
 ## 👔 Experience
 
-### 1️⃣ Explorer Intern @ [Outlier AI](https://outlier.ai/)
+### 1️⃣ Explorer Intern @ [MICROSOFT](https://careers.microsoft.com/)
 #### I executed seven AI chatbots using supervised machine learning, analyzing and improving support automation and personalized user interfaces. I designed two NLP models, utilizing random forests for intent classification and decision trees for response generation.
 
 ### 2️⃣ Growth Product Manager Intern @ [WholeRen Education](https://www.wholeren.com/)
