@@ -16,7 +16,10 @@ public class Frederica
 ## 👔 Experience
 
 ### 1️⃣ Explorer Intern @ [MICROSOFT](https://careers.microsoft.com/)
-#### I executed seven AI chatbots using supervised machine learning, analyzing and improving support automation and personalized user interfaces. I designed two NLP models, utilizing random forests for intent classification and decision trees for response generation.
+#### • Collaborated with the Office Product Group on a project to enhance user experience by helping users catch up on changes in 
+shared Office files. 
+• Designed and implemented a file diffing algorithm to detect and highlight document modifications. 
+• Leveraged large language models (LLMs) with prompt engineering techniques to generate concise summaries of file changes.
 
 ### 2️⃣ Growth Product Manager Intern @ [WholeRen Education](https://www.wholeren.com/)
 #### I directed an AI product that analyzed 50,000 international students’ resumes to match them with jobs sponsoring F1 visas, while engineering 15 data pipelines using ETL to enable real-time analysis and reporting of student employment trends. I also implemented the LinkedIn API to identify potential mentors, networking fairs, market demand, and events for students. I led research advocating for a paid subscription business model for schools’ career offices, which increased revenue by 24%.
