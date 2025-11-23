@@ -16,7 +16,8 @@ public class Frederica
 ## 👔 Experience
 
 ### 1️⃣ Explorer Intern @ [MICROSOFT](https://careers.microsoft.com/)
-#### • Collaborated with the Office Product Group on a project to enhance user experience by helping users catch up on changes in 
+#### 
+• Collaborated with the Office Product Group on a project to enhance user experience by helping users catch up on changes in 
 shared Office files. 
 • Designed and implemented a file diffing algorithm to detect and highlight document modifications. 
 • Leveraged large language models (LLMs) with prompt engineering techniques to generate concise summaries of file changes.
