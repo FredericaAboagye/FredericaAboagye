@@ -7,9 +7,9 @@
 ```java
 public class Frederica
 {
-  public String[] Education = new String[] {"Computer Science @ Pitzer College"};
-  public String[] CurrentPosition = new String[] {"ex-Product @ Microsoft"};
-  public String[] Experience = new String[] { "Product", "AI/ML"};
+  public String[] Education = new String[] {"Computer Science & Mathematical Economics @ Pitzer College"};
+  public String[] CurrentPosition = new String[] {"ex-explore intern @ Microsoft"};
+  public String[] Experience = new String[] { "Software Engineering", "AI/ML"};
 }
 ```
 
@@ -22,8 +22,6 @@ shared Office files.
 • Designed and implemented a file diffing algorithm to detect and highlight document modifications. 
 • Leveraged large language models (LLMs) with prompt engineering techniques to generate concise summaries of file changes.
 
-### 2️⃣ Growth Product Manager Intern @ [WholeRen Education](https://www.wholeren.com/)
-#### I directed an AI product that analyzed 50,000 international students’ resumes to match them with jobs sponsoring F1 visas, while engineering 15 data pipelines using ETL to enable real-time analysis and reporting of student employment trends. I also implemented the LinkedIn API to identify potential mentors, networking fairs, market demand, and events for students. I led research advocating for a paid subscription business model for schools’ career offices, which increased revenue by 24%.
 
 ## 🛠️ Technologies
 
